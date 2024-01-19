@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ahajjam"
+  given-names: "Aymane"
+  orcid: "https://orcid.org/0000-0002-3221-2353"
+title: "Soil temperature prediction scripts"
+version: 0.1.4
+doi: 10.5281/zenodo.10534471
+date-released: 2024-01-19
+url: "https://doi.org/10.5281/zenodo.10534471"
